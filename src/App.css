@@ -18,10 +18,32 @@
   font-weight: 600;
 }
 
+.header2 {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 18px;
+}
+
 .bio {
   text-align: center;
   color: gray;
   margin-top: 16px;
+}
+
+.logs {
+  color: gray;
+  margin-top: 24px;
+  font-size: small;
+}
+
+.msgArea {
+  color: gray;
+  margin-top: 16px;
+  border: 0.5px solid gray;
+  border-radius: 5px;
+  padding: 8px;
+  height: 100px;
 }
 
 .waveButton {
@@ -30,5 +52,5 @@
   padding: 8px;
   border: 0;
   border-radius: 5px;
-  
+  font-size: medium;
 }
